@@ -5,7 +5,7 @@
       {
         "appID": "9434T587C9.com.vsco.CheckDeeplink",
         "paths": [
-          "/*"
+          "Product/*"
         ]
       }
     ]
