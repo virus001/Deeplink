@@ -1,0 +1,13 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "MDF623AH7W.com.vsco.CheckDeeplink",
+        "paths": [
+          "/*"
+        ]
+      }
+    ]
+  }
+}
