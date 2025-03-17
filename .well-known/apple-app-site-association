@@ -3,7 +3,7 @@
     "apps": [],
     "details": [
       {
-        "appID": "9434T587C9.com.vsco.CheckDeeplink",
+        "appID": "9434T587C9.com.test.CheckDeeplink",
         "paths": [
           "Product/*"
         ]
